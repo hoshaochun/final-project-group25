@@ -7,5 +7,9 @@
 1. 影片拍攝
 2. 聲音錄製
 3. 影片剪輯後置、對聲音（讓聲音跟畫面對上）
-4. （先將聲音分軌輸出）利用 Reaper 跟 Panoramix 調整聲音位置，音訊 flow: Reaper (播放聲音) -> Panoramix (立體聲處理) -> Reaper (錄製結果)
-5. 將處理後的聲音套用製影片
+4. （先將聲音分軌輸出）利用 Reaper 跟 Panoramix 調整聲音位置
+```
+音訊 flow: Reaper (播放聲音) -> Panoramix (立體聲處理) -> Reaper (錄製結果)
+(在 Reaper 使用 osc 插件及時調整 Panoramix 參數)
+```
+5. 將處理後的聲音套用至影片
